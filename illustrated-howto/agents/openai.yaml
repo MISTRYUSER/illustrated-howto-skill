@@ -1,0 +1,4 @@
+interface:
+  display_name: "图文操作教程"
+  short_description: "编写可照做的详细图文教程，保留连续入口图并核验操作边界与实际排版"
+  default_prompt: "使用 $illustrated-howto 编写一份可照着操作的详细图文教程，关键界面配真实截图和清晰标注，交付前检查排版。"
